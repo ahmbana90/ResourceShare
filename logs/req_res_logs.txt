@@ -1,0 +1,4 @@
+INFO 2023-09-21 17:30:12,688 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+INFO 2023-09-21 17:30:12,846 log :: GET | 127.0.0.1:8000/favicon.ico | text/plain | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+INFO 2023-09-21 17:35:07,344 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
+INFO 2023-09-21 17:36:04,843 log :: GET | 127.0.0.1:8000/ | text/plain | Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
